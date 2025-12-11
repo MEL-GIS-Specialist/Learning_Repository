@@ -11,3 +11,6 @@ Below is an image that I added directly to the repository, as required.
 ## Description
 
 This image was taken in 2024 by my colleague in Aral Sea Kazakhstan, Central Asia, using my personal phone. I am the sole author of this image. 
+
+My favorite quote:
+“Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill
